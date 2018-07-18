@@ -3,18 +3,18 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
-  <Description about="urn:mozilla:extension:{91aa5abe-9de4-4347-b7b5-322c38dd9271}">
+  <Description about="urn:mozilla:extension:clippings-tb@aecreations.github.io">
     <em:updates>
       <Seq>
 	<li>
 	  <Description>
-	    <em:version>5.5.9</em:version>
+	    <em:version>5.6b1</em:version>
 	    <em:targetApplication>
 	      <Description>
 		<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
 		<em:minVersion>60.0</em:minVersion>
 		<em:maxVersion>60.*</em:maxVersion>
-		<em:updateLink><!-- URL of XPI here --></em:updateLink>
+		<em:updateLink>https://github.com/aecreations/clippings-tb/releases/download/5.6b1/clippings-tb-5.6b1.xpi</em:updateLink>
 	      </Description>
 	    </em:targetApplication>
 	  </Description>
