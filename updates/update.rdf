@@ -8,13 +8,13 @@
       <Seq>
 	<li>
 	  <Description>
-	    <em:version>5.6b1</em:version>
+	    <em:version>5.6b3</em:version>
 	    <em:targetApplication>
 	      <Description>
 		<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
 		<em:minVersion>60.0</em:minVersion>
 		<em:maxVersion>60.*</em:maxVersion>
-		<em:updateLink>https://github.com/aecreations/clippings-tb/releases/download/5.6b1/clippings-tb-5.6b1.xpi</em:updateLink>
+		<em:updateLink>https://github.com/aecreations/clippings-tb/releases/download/5.6b3/clippings-tb-5.6b3.xpi</em:updateLink>
 	      </Description>
 	    </em:targetApplication>
 	  </Description>
@@ -28,6 +28,19 @@
 		<em:minVersion>60.0</em:minVersion>
 		<em:maxVersion>60.*</em:maxVersion>
 		<em:updateLink>https://github.com/aecreations/clippings-tb/releases/download/5.6b2/clippings-tb-5.6b2.xpi</em:updateLink>
+	      </Description>
+	    </em:targetApplication>
+	  </Description>
+	</li>
+	<li>
+	  <Description>
+	    <em:version>5.6b1</em:version>
+	    <em:targetApplication>
+	      <Description>
+		<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+		<em:minVersion>60.0</em:minVersion>
+		<em:maxVersion>60.*</em:maxVersion>
+		<em:updateLink>https://github.com/aecreations/clippings-tb/releases/download/5.6b1/clippings-tb-5.6b1.xpi</em:updateLink>
 	      </Description>
 	    </em:targetApplication>
 	  </Description>
