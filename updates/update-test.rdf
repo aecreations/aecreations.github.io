@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:extension:clippings-tb@aecreations.github.io">
+    <em:updates>
+      <Seq>
+	<li>
+          <Description>
+	    <em:version>1.0</em:version>
+	    <em:targetApplication>
+	      <Description>
+		<em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+		<em:minVersion>60.0</em:minVersion>
+		<em:maxVersion>60.*</em:maxVersion>
+		<em:updateLink>https://github.com/aecreations/tb-upgrade-test/releases/download/1.0/tb-upgrade-test-1.0.xpi</em:updateLink>
+	      </Description>
+	    </em:targetApplication>
+	  </Description>
+	</li>
+      </Seq>
+    </em:updates>
+  </Description>
+</RDF>
