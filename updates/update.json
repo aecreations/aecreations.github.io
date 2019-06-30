@@ -1,0 +1,15 @@
+{
+  "addons": {
+    "clippings-tb@aecreations.github.io": {
+      "updates": [
+	{
+	  "version": "5.7b1",
+	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7b1/clippings-tb-5.7b1.xpi",
+	  "applications": {
+	    "gecko": { "strict_min_version": "67.0b1" }
+	  }
+	}
+      ]
+    }
+  }
+}
