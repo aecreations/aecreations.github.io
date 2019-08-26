@@ -3,6 +3,13 @@
     "clippings-tb@aecreations.github.io": {
       "updates": [
 	{
+	  "version": "5.7rc3",
+	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7rc3a/clippings-tb-5.7rc3.xpi",
+	  "applications": {
+	    "gecko": { "strict_min_version": "68.0" }
+	  }
+	},
+	{
 	  "version": "5.7rc2",
 	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7rc2/clippings-tb-5.7rc2.xpi",
 	  "applications": {
