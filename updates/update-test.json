@@ -24,59 +24,9 @@
 	  }
 	},
 	{
-	  "version": "6.1b1",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.1b1/clippings-tb-6.1b1.xpi",
-	  "browser_specific_settings": {
-            "gecko": {
-              "strict_min_version": "78.0",
-              "strict_max_version": "91.*"
-            }
-	  }
-	},
-	{
 	  "version": "6.0b3",
 	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.0b3/clippings-tb-6.0b3.xpi",
 	  "browser_specific_settings": {
-            "gecko": {
-              "strict_min_version": "78.0",
-              "strict_max_version": "78.*"
-            }
-          }
-	},
-	{
-	  "version": "6.0b2",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.0b2/clippings-tb-6.0b2.xpi",
-	  "browser_specific_settings": {
-            "gecko": {
-              "strict_min_version": "78.0",
-              "strict_max_version": "78.*"
-            }
-          }
-	},
-	{
-	  "version": "6.0b1",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.0b1/clippings-tb-6.0b1.xpi",
-	  "browser_specific_settings": {
-            "gecko": {
-              "strict_min_version": "78.0",
-              "strict_max_version": "78.*"
-            }
-          }
-	},
-	{
-	  "version": "6.0a5",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.0a5/clippings-tb-6.0a5.xpi",
-	  "browser_specific_settings": {
-            "gecko": {
-              "strict_min_version": "78.0",
-              "strict_max_version": "78.*"
-            }
-          }
-	},
-	{
-	  "version": "6.0a4",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.0a4/clippings-tb-6.0a4.xpi",
-          "browser_specific_settings": {
             "gecko": {
               "strict_min_version": "78.0",
               "strict_max_version": "78.*"
@@ -105,15 +55,6 @@
 	      "strict_min_version": "78.0"
 	    }
 	  }
-	},
-	{
-	  "version": "6.3rc1",
-	  "update_link": "https://github.com/aecreations/clippings/releases/download/6.3rc1/clippings-6.3rc1-fx.xpi",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "78.0"
-	    }
-	  }
 	}
       ]
     },
@@ -122,24 +63,6 @@
 	{
 	  "version": "4.4b4",
 	  "update_link": "https://github.com/aecreations/panicbutton/releases/download/4.4b4/panic_button-4.4b4-fx.xpi",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "78.0"
-	    }
-	  }
-	},
-	{
-	  "version": "4.4b3",
-	  "update_link": "https://github.com/aecreations/panicbutton/releases/download/4.4b3/panic_button-4.4b3-fx.xpi",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "78.0"
-	    }
-	  }
-	},
-	{
-	  "version": "4.3a3",
-	  "update_link": "https://github.com/aecreations/panicbutton/releases/download/4.3a3/panicbutton-4.3a3.xpi",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "78.0"
