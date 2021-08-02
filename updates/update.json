@@ -13,26 +13,6 @@
           }
 	},
 	{
-	  "version": "6.0.1",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.0.1/clippings-tb-6.0.1.xpi",
-	  "browser_specific_settings": {
-            "gecko": {
-              "strict_min_version": "78.0",
-              "strict_max_version": "78.*"
-            }
-          }
-	},
-	{
-	  "version": "6.0",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.0/clippings-tb-6.0.xpi",
-	  "browser_specific_settings": {
-            "gecko": {
-              "strict_min_version": "78.0",
-              "strict_max_version": "78.*"
-            }
-          }
-	},
-	{
 	  "version": "5.7.3",
 	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7.3/clippings-tb-5.7.3.xpi",
 	  "browser_specific_settings": {
@@ -40,71 +20,6 @@
 	      "strict_min_version": "68.0",
 	      "strict_max_version": "68.*"
 	    }
-	  }
-	},
-        {
-	  "version": "5.7.2",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7.2/clippings-tb-5.7.2.xpi",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "68.0",
-	      "strict_max_version": "68.*"
-	    }
-	  }
-	},
-	{
-	  "version": "5.7.1",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7.1/clippings-tb-5.7.1.xpi",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "68.0",
-	      "strict_max_version": "68.*"
-	    }
-	  }
-	},
-	{
-	  "version": "5.7",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7/clippings-tb-5.7.xpi",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "68.0",
-	      "strict_max_version": "68.*"
-	    }
-	  }
-	},
-	{
-	  "version": "5.7rc3",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7rc3a/clippings-tb-5.7rc3.xpi",
-	  "applications": {
-	    "gecko": { "strict_min_version": "68.0" }
-	  }
-	},
-	{
-	  "version": "5.7rc2",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7rc2/clippings-tb-5.7rc2.xpi",
-	  "applications": {
-	    "gecko": { "strict_min_version": "68.0" }
-	  }
-	},
-	{
-	  "version": "5.7rc1",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7rc1/clippings-tb-5.7rc1.xpi",
-	  "applications": {
-	    "gecko": { "strict_min_version": "68.0b5" }
-	  }
-	},
-	{
-	  "version": "5.7b2",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7b2/clippings-tb-5.7b2.xpi",
-	  "applications": {
-	    "gecko": { "strict_min_version": "68.0b1" }
-	  }
-	},
-	{
-	  "version": "5.7b1",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/5.7b1/clippings-tb-5.7b1.xpi",
-	  "applications": {
-	    "gecko": { "strict_min_version": "67.0b1" }
 	  }
 	}
       ]
