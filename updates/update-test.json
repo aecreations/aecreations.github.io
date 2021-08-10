@@ -14,8 +14,8 @@
     "clippings-tb@aecreations.github.io": {
       "updates": [
 	{
-	  "version": "6.1b2",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.1b2/clippings-tb-6.1b2.xpi",
+	  "version": "6.1rc1",
+	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/6.1rc1/clippings-tb-6.1rc1.xpi",
 	  "browser_specific_settings": {
             "gecko": {
               "strict_min_version": "78.0",
