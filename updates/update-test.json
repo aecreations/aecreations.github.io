@@ -74,8 +74,8 @@
     "readnext@aecreations.github.io": {
       "updates": [
 	{
-	  "version": "0.8.1",
-	  "update_link": "https://github.com/aecreations/readnext/releases/download/0.8.1/readnext-0.8.1.xpi",
+	  "version": "0.8.2",
+	  "update_link": "https://github.com/aecreations/readnext/releases/download/0.8.2/readnext-0.8.2.xpi",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "91.0"
