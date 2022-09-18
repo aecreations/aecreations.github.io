@@ -76,7 +76,7 @@
 	{
 	  "version": "0.8.3",
 	  "update_link": "https://github.com/aecreations/readnext/releases/download/0.8.3/readnext-0.8.3.xpi",
-	  "update_info_url": "https://aecreations.io/readnext/updateInfo.html",
+	  "update_info_url": "https://aecreations.io/readnext/updateInfo-0.8.3.html",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "91.0"
