@@ -13,6 +13,19 @@
 	  }
 	}
       ]
+    },
+    "readnext@aecreations.github.io": {
+      "updates": [
+	{
+	  "version": "0.9.2a2",
+	  "update_link": "https://github.com/aecreations/readnext/releases/download/0.9.2a2/readnext-0.9.2a2.xpi",
+	  "browser_specific_settings": {
+	    "gecko": {
+	      "strict_min_version": "91.0"
+	    }
+	  }
+	}
+      ]
     }
   }
 }
