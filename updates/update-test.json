@@ -61,8 +61,8 @@
     "{24cea704-946d-11da-a72b-0800200c9a66}": {
       "updates": [
 	{
-	  "version": "4.4b4",
-	  "update_link": "https://github.com/aecreations/panicbutton/releases/download/4.4b4/panic_button-4.4b4-fx.xpi",
+	  "version": "4.4.3b1",
+	  "update_link": "https://github.com/aecreations/panicbutton/releases/download/4.4.3b1/panic_button-4.4.3b1.xpi",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "78.0"
