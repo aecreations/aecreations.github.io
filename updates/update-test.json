@@ -54,21 +54,11 @@
     "readnext@aecreations.github.io": {
       "updates": [
 	{
-	  "version": "1.1.1rc1",
-	  "update_link": "https://github.com/aecreations/readnext/releases/download/1.1.1rc1/readnext-1.1.1rc1.xpi",
+	  "version": "1.1.2rc1",
+	  "update_link": "https://github.com/aecreations/readnext/releases/download/1.1.2rc1/readnext-1.1.2rc1.xpi",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "102.0"
-	    }
-	  }
-	},
-	{
-	  "version": "0.8.4",
-	  "update_link": "https://github.com/aecreations/readnext/releases/download/0.8.4/readnext-0.8.4.xpi",
-	  "update_info_url": "https://aecreations.io/readnext/updateInfo-0.8.4.html",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "91.0"
 	    }
 	  }
 	}
