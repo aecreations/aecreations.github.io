@@ -43,6 +43,7 @@
 	{
 	  "version": "4.998.2",
 	  "update_link": "https://github.com/aecreations/panicbutton/releases/download/4.998.2/panicbutton-5.0pre2.xpi",
+	  "update_info_url": "https://aecreations.io/panicbutton/updateInfo-5.0pre2.html",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "115.0"
