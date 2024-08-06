@@ -28,9 +28,9 @@
     "{91aa5abe-9de4-4347-b7b5-322c38dd9271}": {
       "updates": [
 	{
-	  "version": "6.99.1",
-	  "update_link": "https://github.com/aecreations/clippings/releases/download/7.0b1/clippings-7.0b1.xpi",
-	  "update_info_url": "https://aecreations.io/clippings/updateInfo-7.0b1.html",
+	  "version": "6.99.2",
+	  "update_link": "https://github.com/aecreations/clippings/releases/download/7.0b2/clippings-7.0b2.xpi",
+	  "update_info_url": "https://aecreations.io/clippings/updateInfo-7.0b2.html",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "128.0"
