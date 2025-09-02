@@ -68,9 +68,9 @@
     "checklinks@aecreations.github.io": {
       "updates": [
 	{
-	  "version": "0.9.3",
-	  "update_link": "https://github.com/aecreations/checklinks/releases/download/0.9.3/checklinks-0.9.3.xpi",
-	  "update_info_url": "https://aecreations.github.io/updates/info/checklinks-0.9.3.html",
+	  "version": "0.99",
+	  "update_link": "https://github.com/aecreations/checklinks/releases/download/0.99/checklinks-0.99.xpi",
+	  "update_info_url": "https://aecreations.github.io/updates/info/checklinks-0.99.html",
 	  "browser_specific_settings": {
 	    "gecko": {
               "strict_min_version": "128.0"
