@@ -55,8 +55,8 @@
     "readnext@aecreations.github.io": {
       "updates": [
 	{
-	  "version": "1.6a1",
-	  "update_link": "https://github.com/aecreations/readnext/releases/download/1.6a1/readnext-1.6a1.zip",
+	  "version": "1.6a2",
+	  "update_link": "https://github.com/aecreations/readnext/releases/download/1.6a2/readnext-1.6a2.zip",
 	  "browser_specific_settings": {
 	    "gecko": {
 	      "strict_min_version": "128.0"
