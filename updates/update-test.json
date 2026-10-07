@@ -2,82 +2,84 @@
   "addons": {
     "tb-upgrade-test@aecreations.github.io": {
       "updates": [
-	{
-	  "version": "2.0",
-	  "update_link": "https://github.com/aecreations/tb-upgrade-test/releases/download/2.0/tb-upgrade-test-2.0.xpi",
-	  "applications": {
-	    "gecko": { "strict_min_version": "67.0b1" }
-	  }
-	}
+        {
+          "version": "2.0",
+          "update_link": "https://github.com/aecreations/tb-upgrade-test/releases/download/2.0/tb-upgrade-test-2.0.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "67.0b1"
+            }
+          }
+        }
       ]
     },
     "clippings-tb@aecreations.github.io": {
       "updates": [
-	{
-	  "version": "7.1rc1",
-	  "update_link": "https://github.com/aecreations/clippings-tb/releases/download/7.1rc1/clippings-tb-7.1rc1.xpi",
-	  "update_info_url": "https://aecreations.github.io/updates/info/clippings-tb7.1rc1.html",
-	  "browser_specific_settings": {
+        {
+          "version": "7.1rc1",
+          "update_link": "https://github.com/aecreations/clippings-tb/releases/download/7.1rc1/clippings-tb-7.1rc1.xpi",
+          "update_info_url": "https://aecreations.github.io/updates/info/clippings-tb7.1rc1.html",
+          "browser_specific_settings": {
             "gecko": {
               "strict_min_version": "140.0"
             }
-	  }
-	}
+          }
+        }
       ]
     },
     "{91aa5abe-9de4-4347-b7b5-322c38dd9271}": {
       "updates": [
-	{
-	  "version": "7.0.999.1",
-	  "update_link": "https://github.com/aecreations/clippings/releases/download/7.1rc1/clippings-7.1rc1.xpi",
-	  "update_info_url": "https://aecreations.github.io/updates/info/clippings-7.1rc1.html",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "140.0"
-	    }
-	  }
-	}
+        {
+          "version": "7.1.99.1",
+          "update_link": "https://github.com/aecreations/clippings/releases/download/7.2b1/clippings-7.2b1.xpi",
+          "update_info_url": "https://aecreations.github.io/updates/info/clippings-7.2b1.html",
+          "browser_specific_settings": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
       ]
     },
     "{24cea704-946d-11da-a72b-0800200c9a66}": {
       "updates": [
-	{
-	  "version": "5.0.999.1",
-	  "update_link": "https://github.com/aecreations/panicbutton/releases/download/5.1rc1/panicbutton-5.1rc1.xpi",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "139.0"
-	    }
-	  }
-	}
+        {
+          "version": "5.0.999.1",
+          "update_link": "https://github.com/aecreations/panicbutton/releases/download/5.1rc1/panicbutton-5.1rc1.xpi",
+          "browser_specific_settings": {
+            "gecko": {
+              "strict_min_version": "139.0"
+            }
+          }
+        }
       ]
     },
     "readnext@aecreations.github.io": {
       "updates": [
-	{
-	  "version": "1.6rc1",
-	  "update_link": "https://github.com/aecreations/readnext/releases/download/1.6rc1/readnext-1.6rc1.xpi",
-	  "update_info_url": "https://aecreations.github.io/updates/info/readnext-1.6rc1.html",
-	  "browser_specific_settings": {
-	    "gecko": {
-	      "strict_min_version": "128.0"
-	    }
-	  }
-	}
+        {
+          "version": "1.6rc1",
+          "update_link": "https://github.com/aecreations/readnext/releases/download/1.6rc1/readnext-1.6rc1.xpi",
+          "update_info_url": "https://aecreations.github.io/updates/info/readnext-1.6rc1.html",
+          "browser_specific_settings": {
+            "gecko": {
+              "strict_min_version": "128.0"
+            }
+          }
+        }
       ]
     },
     "checklinks@aecreations.github.io": {
       "updates": [
-	{
-	  "version": "0.99",
-	  "update_link": "https://github.com/aecreations/checklinks/releases/download/0.99/checklinks-0.99.xpi",
-	  "update_info_url": "https://aecreations.github.io/updates/info/checklinks-0.99.html",
-	  "browser_specific_settings": {
-	    "gecko": {
+        {
+          "version": "0.99",
+          "update_link": "https://github.com/aecreations/checklinks/releases/download/0.99/checklinks-0.99.xpi",
+          "update_info_url": "https://aecreations.github.io/updates/info/checklinks-0.99.html",
+          "browser_specific_settings": {
+            "gecko": {
               "strict_min_version": "128.0"
             }
-	  }
-	}
+          }
+        }
       ]
     }
   }
