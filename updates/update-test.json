@@ -32,7 +32,7 @@
         {
           "version": "7.1.99.4",
           "update_link": "https://github.com/aecreations/clippings/releases/download/7.2b4/clippings-7.2b4.xpi",
-          "update_info_url": ""https://aecreations.github.io/updates/info/clippings-7.2b4.html,
+          "update_info_url": "https://aecreations.github.io/updates/info/clippings-7.2b4.html",
           "browser_specific_settings": {
             "gecko": {
               "strict_min_version": "140.0"
